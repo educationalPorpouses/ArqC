@@ -5,7 +5,7 @@ SC_MODULE (hello_world) {
   }
 
   void say_hello() {
-    cout << "Hello World SystemC-2.3.3.\n";
+    cout << "Hello World SystemC-2.3.3.!\n";
   }
 };
 
